@@ -1,0 +1,64 @@
+﻿body {
+    margin-top:0;
+    font-family:"Lucida Console", Monaco, monospace;
+    background-color:white;
+}
+header {
+    background-color:black;
+    height:180px;
+    color:white;
+    text-align:center;    
+}
+.body {
+    width:80%;
+    margin:auto;    
+}
+.header {
+    border:2px solid white;
+    width:50%;
+    height: 100px;
+    margin:auto;    
+}
+.date_of_birth {
+    height:50px;
+    background-color:#d6d1ce;
+    margin-top:3px;    
+}
+
+.date_of_birth p {
+    text-align:center;    
+    }
+.text_style {      
+    color:white;    
+    margin-top:15px;
+}
+h4{  
+    text-align:center; 
+    background-color:black;
+    padding:5px;    
+}
+.li_style li{
+    text-decoration:none;
+    color:black;
+    text-align:left;
+    line-height:30px;
+}
+.skills_abilities{
+    float:left;
+    width:48%;
+}
+.lang_skills{
+    float:right;
+    width:48%;
+}
+.skills {
+    height:25px;
+    color:white;
+    text-align:center;
+    margin-top:15px;
+}
+.vertical_text{
+    position: relative;
+	top: 50%;
+	transform:translateY(-50%);
+}
